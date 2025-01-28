@@ -7,7 +7,7 @@
 This project explores, assesses and manipulates data to create a dynamic dashboard on Tableau. The dataset used in this project is the Historical data for bike sharing in London.
 
 
-### Herramientas Utilizadas
+### Technologies used
 
 - Python
 - Pandas Library
